@@ -2,10 +2,14 @@ name = "Gallery"
 license = "MIT"
 licenselink = "https://github.com/nicokaiser/hugo-theme-gallery/blob/main/LICENSE"
 description = ""
-homepage = "https://github.com/nicokaiser/hugo-theme-gallery"
+homepage = "https://github.com/stepaut/hugo-theme-gallery"
 tags = ["Gallery"]
 min_version = "0.112.0"
 
 [author]
-  name = "Nico Kaiser"
-  homepage = "https://kaiser.me"
+  name = "stepaut"
+  homepage = "https://github.com/stepaut/hugo-theme-gallery"
+
+[original]
+  author = "nicokaiser"
+  homepage = "https://github.com/nicokaiser/hugo-theme-gallery"
